@@ -1,0 +1,5 @@
+{
+  "name": "ValueBet Analyzer",
+  "description": "An AI-powered application that performs deep statistical and tactical analysis of sports matches to suggest high-value betting markets.",
+  "requestFramePermissions": []
+}

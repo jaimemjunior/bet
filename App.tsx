@@ -41,7 +41,7 @@ const App: React.FC = () => {
           <div className="flex items-center justify-center gap-3 mb-2">
             <SparklesIcon className="w-8 h-8 text-cyan-400" />
             <h1 className="text-3xl sm:text-4xl font-bold text-white tracking-tight">
-              ValueBet Analyzer
+              Analisador de Mercados
             </h1>
           </div>
           <p className="text-gray-400 text-lg">
